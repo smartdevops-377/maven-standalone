@@ -9,7 +9,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello welcome to devops classes,Hello Welcome to jenkins CI-CD Tool !! Today Date is:  " + getLocalCurrentDate());
+		System.out.println("Hello welcome to devops classes,we are lerning jenkins CI-CD Tool with github webhook !! Today Date is:  " + getLocalCurrentDate());
 
 	}
 
